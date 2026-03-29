@@ -1,4 +1,4 @@
-# 🚀 CRUD Application with Django REST API & React
+#  CRUD Application with Django REST API & React
 
 ## 📌 Project Overview
 
@@ -11,7 +11,7 @@ This is a full-stack CRUD (Create, Read, Update, Delete) web application built u
 
 ---
 
-## ✨ Features
+## Features
 
 * ➕ Create new student
 * 📄 View all students
@@ -22,7 +22,7 @@ This is a full-stack CRUD (Create, Read, Update, Delete) web application built u
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python / Django
 * Django REST Framework
@@ -89,7 +89,7 @@ http://127.0.0.1:8000/api/students/
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 * Backend deployed on Render
 * Frontend deployed using Vite build
